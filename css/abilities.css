@@ -1,0 +1,35 @@
+/* CSS files --> abilities.html */
+body{
+    background-color: #000000;
+}
+.table-menu{
+    width:100%;  /* ความกว้างของ table */
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+} 
+h1{
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* ใช้ font impact เป็นหลัก */
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+} 
+h4{
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  /* ใช้ font impact เป็นหลัก */
+    font-weight: normal; /* ขนาดความหนาข้อความ ปกติ */
+    color: rgb(255, 255, 255); /* สีข้อความ สีขาว */
+}
+h5{ 
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  /* ใช้ font impact เป็นหลัก */
+    font-weight: normal; /* ขนาดความหนาข้อความ ปกติ */
+}
+h2{ 
+    text-align: center;/* กลุ่มข้อความอยู่ตรงกลาง */
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+} 
+.table-skills{
+    margin-left: auto; 
+    margin-right: auto; 
+    color: rgb(255, 255, 255); /* สีข้อความ สีขาว */
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+}

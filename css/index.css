@@ -1,0 +1,81 @@
+
+body{
+    background-color: #000000; /* กำหนดพื้นหลังเป็นสีดำ */
+}
+h1{
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* ใช้ font impact เป็นหลัก */
+    font-size: 100px; /* ขนาด font 100 pixel */
+    height: 100px; /* ส่วนสูงของ h1 = 100 pixel */
+}
+
+h2{
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* ใช้ font impact เป็นหลัก */
+    font-weight: normal; /* ขนาดความหนาข้อความ ปกติ */
+    font-size: 50px; /* ขนาด font 50 pixel */
+    height: 20px; /* ส่วนสูงของ h2 = 20 pixel */
+}
+
+h5{
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* ใช้ font impact เป็นหลัก */
+    font-weight: normal; /* ขนาดความหนาข้อความ ปกติ */
+    font-size: 50px; /* ขนาด font 50 pixel */
+    height: 1px; /* ส่วนสูงของ h5 = 1 pixel */
+}
+
+h4{
+    width: 40%;
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* ใช้ font impact เป็นหลัก */
+    font-weight: normal; /* ขนาดความหนาข้อความ ปกติ */
+    color: rgb(255, 255, 255); /* สีข้อความ สีขาว */
+    margin-left: auto; /* เว้นด้านซ้าย auto */
+    margin-right: auto; /* เว้นด้านขวา auto */
+}
+
+h6{
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* ใช้ font impact เป็นหลัก */
+    font-weight: normal; /* ขนาดความหนาข้อความ ปกติ */
+    font-size: 60px; /* ขนาด font 60 pixel */
+    height: 0px; /* ส่วนสูงของ h6 = 0 pixel */
+    color: rgb(255, 255, 255); /* สีข้อความ สีขาว */
+}
+
+.Pic{
+    display: flex; /* ทำให้รูปอยู่ตรงกลาง */
+    justify-content: center; /* ทำให้รูปอยู่ตรงกลาง ทำงานคู่กับ flex */
+    margin: 100px; /* ส่วนสูงของ class Pic */
+}
+
+.about-me{
+    margin: 100px; /* ส่วนสูงของ about-me */
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    color: rgb(255, 255, 255); /* สีข้อความ สีขาว */
+}
+
+.Detail{
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+    color: rgb(255, 255, 255); /* สีข้อความ สีขาว */
+    margin: 100px; /* ส่วนสูงของ about-me */
+}
+
+table{
+    width: 100%; /* ความกว้างของ table */
+    text-align: center; /* กลุ่มข้อความอยู่ตรงกลาง */
+}
+
+.p-Aboutme{
+    color: rgb(255, 255, 255); /* สีข้อความ สีขาว */
+    font-weight: normal;  /* ขนาดความหนาข้อความ ปกติ */
+    text-align: justify; /* กลุ่มข้อความอยู่ตรงกลาง */
+}
+
+.top-container{
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+}
+.table-menu{
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+}

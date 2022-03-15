@@ -1,0 +1,14 @@
+/* CSS files --> contact.html */
+body{
+    background-color: #000000;
+}
+table{
+    width:100%; 
+    text-align: center;
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(91, 178, 250); /* กำหนดพื้นหลังเป็นสีฟ้า */
+}
